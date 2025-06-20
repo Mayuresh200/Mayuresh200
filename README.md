@@ -5,7 +5,7 @@ I'm a Data Analyst who loves transforming raw data into meaningful insights [bas
 - 🔧 Tools I work with: SQL, Power BI, Python (Pandas), Tableau
 - 🧠 Interests: Data Engineering, Dashboarding, Automation, and Gaming ofcourse!
 - 📊 Check out my latest project: [SQL Data Warehouse](https://github.com/Mayuresh200/sql-data-warehouse-project.git)
-- 📂 Portfolio of Dashboards: [Power BI Projects](https://github.com/MayureshChourikar/projects)
+- 📂 Portfolio of Dashboards: [Power BI Projects](https://github.com/Mayuresh200/projects)
 
 ## 🗂 Featured Projects
 - [SQL Data Warehouse Project](https://github.com/MayureshChourikar/sql-data-warehouse)
