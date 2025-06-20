@@ -4,14 +4,13 @@ I'm a Data Analyst who loves transforming raw data into meaningful insights [bas
 
 - 🔧 Tools I work with: SQL, Power BI, Python (Pandas), Tableau
 - 🧠 Interests: Data Engineering, Dashboarding, Automation, and Gaming ofcourse!
-- 📊 Check out my latest project: [SQL Data Warehouse](https://github.com/MayureshChourikar/sql-data-warehouse)
+- 📊 Check out my latest project: [SQL Data Warehouse](https://github.com/Mayuresh200/sql-data-warehouse-project.git)
 - 📂 Portfolio of Dashboards: [Power BI Projects](https://github.com/MayureshChourikar/projects)
 
 ## 🗂 Featured Projects
 - [SQL Data Warehouse Project](https://github.com/MayureshChourikar/sql-data-warehouse)
-- [Credit Card Transaction Dashboard](https://github.com/MayureshChourikar/projects/tree/main/CreditCardDashboard)
-- [Telecom Churn Dashboard](https://github.com/MayureshChourikar/projects/tree/main/TelecomChurnPowerBI)
-
+- [Credit Card Transaction Dashboard](https://github.com/Mayuresh200/Projects/tree/main/Credit%20Card%20Transaction%20report)
+- [Telecom Churn Dashboard](https://github.com/Mayuresh200/Projects/tree/main/Telecom%20Churn%20Analysis%20India)
 ## 📁 Other Projects
 
 ### Exploratory DataAnalysis (in progress)  #next step after building datawarehouse
