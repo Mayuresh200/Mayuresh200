@@ -9,11 +9,12 @@ I'm a Data Analyst who loves transforming raw data into meaningful insights [bas
 
 ## 🗂 Featured Projects
 - [SQL Data Warehouse Project](https://github.com/MayureshChourikar/sql-data-warehouse)
+- [Exploratory-Data-Analysis-EDA](https://github.com/Mayuresh200/Exploratory-Data-Analysis-EDA)
 - [Credit Card Transaction Dashboard](https://github.com/Mayuresh200/Projects/tree/main/Credit%20Card%20Transaction%20report)
 - [Telecom Churn Dashboard](https://github.com/Mayuresh200/Projects/tree/main/Telecom%20Churn%20Analysis%20India)
 ## 📁 Other Projects
 
-### Exploratory DataAnalysis (in progress)  #next step after building datawarehouse
+### PowerBI Dashboard Using DataWarehouse (in progress)
 - Dataset: Same as datawarehouse 
 - Tools: Suspence! 🥁
 🔗 [Coming soon]
