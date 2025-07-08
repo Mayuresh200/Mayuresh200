@@ -10,6 +10,8 @@ I'm a Data Analyst who loves transforming raw data into meaningful insights [bas
 ## 🗂 Featured Projects
 - [SQL Data Warehouse Project](https://github.com/MayureshChourikar/sql-data-warehouse)
 - [Exploratory-Data-Analysis-EDA](https://github.com/Mayuresh200/Exploratory-Data-Analysis-EDA)
+- [Business Intelligence Reports 'based on Data Warehouse']
+- [Covid-19 Dashboard](https://github.com/Mayuresh200/PowerBI_Dashboards/tree/main/Covid-19%202025%20Dashboard)
 - [Credit Card Transaction Dashboard](https://github.com/Mayuresh200/Projects/tree/main/Credit%20Card%20Transaction%20report)
 - [Telecom Churn Dashboard](https://github.com/Mayuresh200/Projects/tree/main/Telecom%20Churn%20Analysis%20India)
 ## 📁 Other Projects
