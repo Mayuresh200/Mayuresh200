@@ -8,18 +8,12 @@ I'm a Data Analyst who loves transforming raw data into meaningful insights [bas
 - 📂 Portfolio of Dashboards: [Power BI Projects](https://github.com/Mayuresh200/projects)
 
 ## 🗂 Featured Projects
-- [SQL Data Warehouse Project](https://github.com/MayureshChourikar/sql-data-warehouse)
-- [Exploratory-Data-Analysis-EDA](https://github.com/Mayuresh200/Exploratory-Data-Analysis-EDA)
-- [Business Intelligence Reports 'based on Data Warehouse']
-- [Covid-19 Dashboard](https://github.com/Mayuresh200/PowerBI_Dashboards/tree/main/Covid-19%202025%20Dashboard)
-- [Credit Card Transaction Dashboard](https://github.com/Mayuresh200/Projects/tree/main/Credit%20Card%20Transaction%20report)
-- [Telecom Churn Dashboard](https://github.com/Mayuresh200/Projects/tree/main/Telecom%20Churn%20Analysis%20India)
-## 📁 Other Projects
-
-### PowerBI Dashboard Using DataWarehouse (in progress)
-- Dataset: Same as datawarehouse 
-- Tools: Suspence! 🥁
-🔗 [Coming soon]
+- [Built a Retail Data Warehouse (Medallion Architecture) — Bronze→Silver→Gold on SQL Server](https://github.com/Mayuresh200/sql-data-warehouse)
+- [Exploratory Analysis: [Datawarehouse Dataset] — Key Patterns & Outliers](https://github.com/Mayuresh200/Exploratory-Data-Analysis-EDA)
+- [Retail Sales & Customer Performance Analysis — SQL Server + Power BI](https://github.com/Mayuresh200/PowerBI_Dashboards/tree/main/Business%20Intelligence%20Dashboard%20%E2%80%93%20Sales%2C%20Customers%20%26%20Products)
+- [COVID-19 2025 Case & Impact Trends Dashboard](https://github.com/Mayuresh200/PowerBI_Dashboards/tree/main/Covid-19%202025%20Dashboard)
+- [Credit Card Transaction Analysis — Spending Patterns by [segement/state/age/imcome]](https://github.com/Mayuresh200/Projects/tree/main/Credit%20Card%20Transaction%20report)
+- [Telecom Churn Analysis](https://github.com/Mayuresh200/Projects/tree/main/Telecom%20Churn%20Analysis%20India)
 
 ## 📫 Contact Me 
 
