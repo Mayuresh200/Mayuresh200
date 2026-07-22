@@ -8,6 +8,7 @@ Skills & tools
 - Python (pandas), Basic Scripting & Data Cleaning
 
 ## 🗂 Featured Projects
+- [Analysed HDFC and ICICI Bank Statements to uncover Important Insights](https://github.com/Mayuresh200/HDFC-vs-ICICI-Financial-Analysis-FY-2026)
 - [Built a Retail Data Warehouse (Medallion Architecture) — Bronze→Silver→Gold on SQL Server](https://github.com/Mayuresh200/sql-data-warehouse-project)
 - [Exploratory Analysis: [Datawarehouse Dataset] — Key Patterns & Outliers](https://github.com/Mayuresh200/Exploratory-Data-Analysis-EDA)
 - [Retail Sales & Customer Performance Analysis — SQL Server + Power BI](https://github.com/Mayuresh200/PowerBI_Dashboards/tree/main/Business%20Intelligence%20Dashboard%20%E2%80%93%20Sales%2C%20Customers%20%26%20Products)
